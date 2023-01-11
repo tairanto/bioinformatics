@@ -1,2 +1,1 @@
-TTCCT
-1
+TTCCT 1
